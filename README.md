@@ -16,6 +16,8 @@ The code from this project can be used as an example of how semantic tags and al
 The content on the actual website of this project can be used to highlight the importance of having good search engine optimizaiton, having a good online reputation management, and having a social media marketing presence.
 
 ## Deployed Application
-Here is the link to access the deployed application. Additionally, here is a screenshot of what it looks like.
+Here is the link to access the deployed application. 
 https://noahsimcoe.github.io/Challenge-01/
+
+Additionally, here is a screenshot of what it looks like.
 ![Horiseon Website](https://github.com/noahsimcoe/Challenge-01/assets/109931528/cb0a7e4c-9f1e-495c-8008-72f7017d7716)
