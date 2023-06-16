@@ -17,7 +17,7 @@ The content on the actual website of this project can be used to highlight the i
 
 ## Deployed Application
 Here is the link to access the deployed application. 
-[https://noahsimcoe.github.io/Challenge-01/](https://noahsimcoe.github.io/KU-Bootcamp-Challenge-01/)
+https://github.com/noahsimcoe/KU-Bootcamp-Challenge-01/deployments/activity_log?environment=github-pages
 
 Additionally, here is a screenshot of what it looks like.
 ![Horiseon Website](https://github.com/noahsimcoe/KU-Bootcamp-Challenge-01/assets/109931528/95d5ab40-3529-416d-8ad6-7b641d4cbae4)
