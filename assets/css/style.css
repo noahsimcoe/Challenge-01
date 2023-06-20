@@ -15,11 +15,13 @@ body {
     color: #ffffff;
 }
 
+/* puts the header title/nav bar on the same line */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* makes the letters "seo" a different color than the rest of the word */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -32,6 +34,7 @@ body {
     font-size: 20px;
 }
 
+/* takes away the bullet points in front of list items */
 .header nav ul {
     list-style-type: none;
 }
@@ -41,6 +44,7 @@ body {
     margin-left: 25px;
 }
 
+/* makes all links white without any underlining  */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* this is for the hero section with an image as the background */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,16 +64,19 @@ p {
     background-position: center;
 }
 
+/* class used for the objects that will be on the left side of webpage */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* class used for the objects that will be on the right side of webpage */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* sets content class to inline-block styling for its content */
 .content {
     width: 75%;
     display: inline-block;
@@ -86,55 +94,24 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+/* styling for all images in the benefits section */
+#benefits-image {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.search-engine-optimization {
+.content div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -143,47 +120,13 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+/* sets max size for images in the content section */
+#content-image {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/* sets size/margin for all h2's in the content class */
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
