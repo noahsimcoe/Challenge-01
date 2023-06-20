@@ -1,11 +1,12 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Description
-I built this project to demonstrate my ability to refactor code to include semantic HTML tags, accessible alt attributes, and logical ordering of classes/id's. I wanted to do so in order to make my website accessible to more people and to make my code eaiser to read/understand.
+I built this project to demonstrate my ability to refactor code to include semantic HTML tags, accessible alt attributes, comments explaining specific css styling, and logical ordering of classes/id's. I also demonstrated my ability to make my code shorter and more efficient by consolidating duplicated css selectors and properties. I wanted to do so in order to make my website accessible to more people and to make my code eaiser to read/understand.
 
 The original copy of this code was full of non-semantic tags on the html document. I went in and included semantic tags/accessible alt attributes which has made this website optimized for better search engine results, and now screen readers will work for the images on my site. I also fixed a broken link on this website's navbar, and I reordered some of the class/id information on some of the img tags.
+Additionally, I added comments explaining the css styling and also consolidated a lot of the lines in order to shorten the amount of code used. 
 
-During this challenge I was able to learn the importance of using semantic tags, and how it makes reading the structure of an html document a lot easier when you have them included.
+During this challenge I was able to learn the importance of using semantic tags, and how it makes reading the structure of an html document a lot easier when you have them included. I also learned the importance of including comments on the styling of your css code, in order for other people to easily understand your lines. 
 
 ## Installation
 This project will be deployed on GitHub Pages and available to view.
