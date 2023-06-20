@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Noah's Horiseon Website Refactor
 
 ## Description
 I built this project to demonstrate my ability to refactor code to include semantic HTML tags, accessible alt attributes, comments explaining specific css styling, and logical ordering of classes/id's. I also demonstrated my ability to make my code shorter and more efficient by consolidating duplicated css selectors and properties. I wanted to do so in order to make my website accessible to more people and to make my code eaiser to read/understand.
